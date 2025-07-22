@@ -1,7 +1,7 @@
 # Meta-Analytic Bayes Factor Shiny App Suite
 Recent concerns about the replication crisis in psychology have underscored the need for better frameworks to assess whether original findings can be reliably replicated. This study compares the performance of several meta-analytic Bayes factors (FEMABF, BFbMA, EUBF, and iBF) both relative to one another and against the traditional fixed-effect meta-analysis in evaluating replication success.
 
-To do so, we use a large-scale simulation to generate original studies across varied scenarios by manipulating true effect size, research environment (levels of p-hacking and publication bias), and original sample size. Replication studies are then simulated by varying replication sample size and number of replications, yielding 243 distinct scenarios and over 60 million data points.
+To do so, we use a large-scale simulation to generate original studies across varied scenarios by manipulating true effect size, research environment (levels of p-hacking and publication bias), and original sample size. Replication studies are then simulated by varying replication sample size and number of replications, yielding 243 distinct scenarios and over 60 million data points. For a full review of the study, visit https://github.com/wnk4242/MetaBayes_Evaluation.
 
 This repository contains a collection of Shiny applications developed to visualize and model the simulation data. Each app provides a different lens on the statistical performance of MABF methods. The apps were built to support transparency, interactivity, and reproducibility in evaluating replication metrics.
 
