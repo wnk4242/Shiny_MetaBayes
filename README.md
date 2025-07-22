@@ -18,6 +18,8 @@ This Shiny app visualizes how different MABF methods categorize replication outc
 - Comparative panels: Compare outcome distributions across methods and replication study designs using faceted pie charts.
 
 **Live App:** https://quantpsych.shinyapps.io/piechartmetrics/
+
+**Screen Shot:**
 ![Shiny1](images/shiny1.png)
 
 ---
@@ -47,6 +49,7 @@ This Shiny app explores how design features of replication studies and original 
 
 **Screen Shot:**
 ![Shiny3](images/shiny3.png)
+
 ---
 
 ### Shiny App 4 – ROC Curves by Replication Design
@@ -60,6 +63,7 @@ This Shiny app visualizes ROC curves to compare the performance of different met
 
 **Screen Shot:**
 ![Shiny4](images/shiny4.png)
+
 ---
 
 ### Shiny App 5 – Modeling and Visualization Suite
